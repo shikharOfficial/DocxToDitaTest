@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+        <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+        <map id="a3885318" xml:lang="en-us">
+    <title>Container Handling Setup - Emhart - TW0444</title>
+ <topicref href="container_handling_setup__emhart__tw0444.dita" />
+<topicref href="purpose_and_application.dita" >
+<topicref href="purpose.dita" />
+<topicref href="application.dita" />
+</topicref>
+<topicref href="safety.dita" />
+<topicref href="instructions.dita" />
+<topicref href="required_training.dita" />
+<topicref href="references.dita" >
+<topicref href="document_classification.dita" />
+</topicref>
+<topicref href="approval.dita" />
+<topicref href="revision_history.dita" />
+</map>
